@@ -1,13 +1,13 @@
-# miraiv2_JRT
-Bot dành cho messenger
-#Hướng dẫn cài đặt. 
+# mirai_ShaiDu
+Bot for messengerBot for messenger
+#Installation guide.
 
-Git clone về máy hoặc tạo trên replit bằng link github.
+Git clone to your computer or create on replit using github link.
 
-nhập vào cmd: npm i
+enter cmd: npm i
 
-tạo appstate 
+create appstate
 
-sửa config
+edit config
 
-nhập vào cmd: npm start
+enter cmd: npm start
